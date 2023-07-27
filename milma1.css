@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    margin-top: 0px;
+}
+.topdivnav{
+    width:1170px;
+    height: 33px;
+    background-color: rgb(247, 173, 13);
+    padding-left: 90px;
+    padding-top: 24px;
+    padding-right: 90px;    
+    left: 0;
+    
+}
+
+
+.emblomsocial{
+    width:30px;  
+}
+.topnamefed{
+float: right;
+
+ 
+}
+.seconddiv{
+    width: 100%;
+    height: 184px;
+    background-color: rgb(243, 238, 238);
+}
+.milmaimage{
+    width: 180px;
+    padding-left: 150px;
+    padding-top: 5px;
+    float: left;
+}
+.adress{
+        float: left;
+        padding-left: 195px;
+        padding-top: 1px;
+        width: 300px;
+        
+        
+}
+.adresstext{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(88, 84, 84);
+    font-size: 15px;
+}
+.contact1{
+float: left;
+padding-left: 75px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+display: flex;
+align-items: center;
+align-content: center;
+
+}
+.navbardiv{
+    height: 60px;
+    width: 90%;
+    background-color:rgb(71, 71, 71) ;
+    display: flex;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;    
+    margin-left: 60px;
+    align-items: center;
+    justify-content: space-around;
+}
+.imagebackground{
+    width: 100%;
+    
+}
+.navlinks{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(241, 250, 247);
+    text-decoration: none;
+}
+.searchbutton{
+    height: 60px;
+    width: 80px;
+    border-radius: 30px;
+    background-color: blue;
+      
+    
+}
+.searchimage{
+    width:100%;
+    height: 100%;
+    border-radius: 25px;
+
+}
